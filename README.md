@@ -1,5 +1,5 @@
 Senior Back-End Engineer: полный список навыков
-Евгений · Node.js / NestJS / TypeScript / MySQL
+Node.js / NestJS / TypeScript / MySQL
 Как читать этот документ
 • Только уровень Senior. Всего 56 навыков, из них 22 с меткой KEY. Lead, Middle и уровни ниже Senior убраны.
 • Разделы идут в порядке матрицы, внутри раздела KEY стоят первыми.
